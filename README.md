@@ -39,9 +39,12 @@ This tool is particularly useful for journalists, researchers, and anyone intere
    cd news-sentiment-analysis
 
 2.Install the required packages:
+  ```bash
   pip install -r requirements.txt
 
+
 3.Set up your OpenAI API key:
+  ```bash
   streamlit run app.py
 
 
