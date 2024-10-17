@@ -44,7 +44,7 @@ This tool is particularly useful for journalists, researchers, and anyone intere
 
 
 3.Set up your OpenAI API key:
-  ```bash
+
   streamlit run app.py
 
 
