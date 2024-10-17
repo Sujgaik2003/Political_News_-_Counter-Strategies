@@ -38,3 +38,17 @@ This tool is particularly useful for journalists, researchers, and anyone intere
    git clone https://github.com/yourusername/news-sentiment-analysis.git
    cd news-sentiment-analysis
 
+2.Install the required packages:
+  pip install -r requirements.txt
+
+3.Set up your OpenAI API key:
+  streamlit run app.py
+
+
+Open your web browser and go to http://localhost:8501 to access the application.
+
+Enter the start and end dates to fetch news articles, then click on "Fetch and Process News".
+
+The processed articles along with their sentiments and counter-attack articles will be displayed. You can download the results as an Excel file.
+
+
