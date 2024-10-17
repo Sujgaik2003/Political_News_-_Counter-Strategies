@@ -38,15 +38,12 @@ This tool is particularly useful for journalists, researchers, and anyone intere
    git clone https://github.com/yourusername/news-sentiment-analysis.git
    cd news-sentiment-analysis
 
-## Demo Video
 
-You can watch the demo video [here](https://www.youtube.com/watch?v=your_video_id).
 
 
 2.Install the required packages:
   ```bash
   pip install -r requirements.txt
-
 
 3.Set up your OpenAI API key:
 
