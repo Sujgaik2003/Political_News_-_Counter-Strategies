@@ -38,6 +38,11 @@ This tool is particularly useful for journalists, researchers, and anyone intere
    git clone https://github.com/yourusername/news-sentiment-analysis.git
    cd news-sentiment-analysis
 
+## Demo Video
+
+You can watch the demo video [here](https://www.youtube.com/watch?v=your_video_id).
+
+
 2.Install the required packages:
   ```bash
   pip install -r requirements.txt
@@ -53,6 +58,9 @@ Open your web browser and go to http://localhost:8501 to access the application.
 Enter the start and end dates to fetch news articles, then click on "Fetch and Process News".
 
 The processed articles along with their sentiments and counter-attack articles will be displayed. You can download the results as an Excel file.
+
+
+
 
 
 
