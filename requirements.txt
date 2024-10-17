@@ -1,0 +1,10 @@
+vaderSentiment
+textblob
+feedparser
+beautifulsoup4
+openai==0.28
+nltk
+pandas
+xlsxwriter
+streamlit
+python-dotenv
