@@ -25,7 +25,7 @@ Before running this application, make sure you have Python 3.7+ installed and an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Suj2003/news-sentiment-analysis.git
+git clone https://github.com/Sujgaik2003/news-sentiment-analysis.git
 cd news-sentiment-analysis
 ```
 
